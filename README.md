@@ -26,7 +26,7 @@
 <a name="aphids"/>
 
 ### Aphid Longevity
-![Aphid Longevity boxplot](./aphidLongevity/aphidLongevity.pdf)
+![Aphid Longevity boxplot](./plots/aphidLongevityboxplot.png)
 
 <a name="means"/>
 
