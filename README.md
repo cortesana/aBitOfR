@@ -35,12 +35,12 @@
 <a name="fish"/>
 
 ### Fish Parasitism and Predatory Behaviour
-![Comparing Means barplot](./fishParasitismandPredatorAvoidance/fishParasitismandPredatorAvoidance.pdf)
+![Comparing Means barplot](./plots/fishParasitismandPredatorAvoidancebarplot.png)
 
 <a name="smokingRatesandLungCancerFem"/>
 
 ### Smoking Rates and Lung Cancer Occurence in Female Patients
-![Comparing Means barplot](./smokingRatesandLungCancerFem/comparingFemPatientsbarplot.pdf)
+![Comparing Means barplot](./plots/smokingRatesandLungCancerbarplot.png)
 
 <a name="installation"/>
 
