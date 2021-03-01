@@ -77,6 +77,8 @@ Contributions are what make the open source community an amazing place to be, le
 
 ## Resources
 
+- [R Project](https://www.r-project.org/help.html)
+- [More R Project](https://cran.r-project.org/other-docs.html)
 - [R Documentation](https://www.rdocumentation.org/)
 - [Introduction to R](https://www.datamentor.io/r-programming/)
 
