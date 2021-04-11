@@ -6,7 +6,7 @@
 
 *A Bit Of R* holds my first steps in biodata analysis and visualisation using R.
 
-*Disclaimer: Although the aim of this repository is to learn a bit of R, the example data used are real.*
+*Disclaimer: Although the aim of this repository is to learn a bit of R, the example datasets used are real.*
 
 ## Table of contents
 - [Contents](#contents)
