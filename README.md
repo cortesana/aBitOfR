@@ -58,7 +58,7 @@
 
 ## How To Contribute
 
-Contributions are what make the open source community an amazing place to be, learn and grow. Any contributions to **README.md** are **greatly appreciated**.
+Contributions are what make the open source community an amazing place to be, learn and grow. Any contributions to **A Bit Of R** are **greatly appreciated**.
 
 1. Fork the project.
 2. Create a Branch:
